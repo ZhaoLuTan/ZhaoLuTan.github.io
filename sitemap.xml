@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    <url>
+    
+      <loc>/publication/hybp-hybrid-isolation-randomization-secure-branch-predictor/</loc>
+      <lastmod>2022-02-12T09:46:43+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/nasguard-a-novel-accelerator-architecture-for-robust-nas-networks/</loc>
+      <lastmod>2021-03-06T12:06:19+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/a-lightweight-isolation-mechanism-for-secure-branch-predictors/</loc>
+      <lastmod>2021-03-03T16:43:14+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/built-in-security-computer-deploying-security-first-architecture-using-active-security-processor/</loc>
+      <lastmod>2020-03-03T16:43:14+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/exploiting-security-dependence-for-conditional-speculation-against-spectre-attacks/</loc>
+      <lastmod>2020-05-20T15:47:34+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/enabling-rack-scale-confidential-computing-using-heterogeneous-trusted-execution-environment/</loc>
+      <lastmod>2020-05-18T22:10:16+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/dnnguard-an-elastic-heterogeneous-architecture-for-dnn-accelerator-against-adversarial-attacks/</loc>
+      <lastmod>2020-03-16T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/venice-an-effective-resource-sharing-architecture-for-data-center-server/</loc>
+      <lastmod>2019-03-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/conditional-speculation-an-effective-approach-to-safeguard-out-of-order-execution-against-spectre-attacks/</loc>
+      <lastmod>2019-01-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/raguard-an-efficient-and-user-transparent-hardware-mechanism-against-rop-attacks/</loc>
+      <lastmod>2018-12-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/cost-effective-data-center-server/</loc>
+      <lastmod>2013-12-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/punchard-a-practical-red-zone-based-scheme-for-low-overhead-heap-protection/</loc>
+      <lastmod>2021-12-20T23:38:56+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/a-novel-probabilistic-saturating-counter-design-for-secure-branch-predictor/</loc>
+      <lastmod>2021-12-10T17:51:37+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/secure-hybrid-replacement-policy-mitigating-conflict-based-cache-side-channel-attacks/</loc>
+      <lastmod>2021-08-07T08:49:40+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/pipomonitor-mitigating-cross-core-cache-attacks-using-the-auto-cuckoo-filter/</loc>
+      <lastmod>2021-02-03T16:43:14+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/mitigating-cross-core-cache-attacks-via-suspicious-traffic-detection/</loc>
+      <lastmod>2021-01-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/%E5%9F%BA%E4%BA%8E%E8%BE%B9%E7%95%8C%E6%A3%80%E6%B5%8B%E7%9A%84%E5%AE%89%E5%85%A8%E6%95%B0%E6%8D%AE%E9%A2%84%E5%8F%96%E6%96%B9%E6%A1%88/</loc>
+      <lastmod>2020-07-15T13:42:19+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/a-lightweight-rule-based-mechanism-for-backward-control-flow-integrity/</loc>
+      <lastmod>2020-04-03T12:24:23+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/capturing-and-obscuring-ping-pong-patterns-to-mitigate-continuous-attacks/</loc>
+      <lastmod>2020-03-09T16:59:50+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/sna-a-siamese-network-accelerator-to-exploit-the-model-level-parallelism-of-hybrid-network-structures/</loc>
+      <lastmod>2020-03-09T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/npufort-a-secure-architecture-of-dnn-accelerator-against-model-inversion-attack/</loc>
+      <lastmod>2019-03-11T09:07:23+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/cacheguard-a-security-enhanced-directory-architecture-against-continuous-attacks/</loc>
+      <lastmod>2019-03-09T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/%E5%9F%BA%E4%BA%8E%E7%A1%AC%E4%BB%B6%E7%9A%84%E4%BB%A3%E7%A0%81%E5%A4%8D%E7%94%A8%E6%94%BB%E5%87%BB%E9%98%B2%E5%BE%A1%E6%9C%BA%E5%88%B6%E7%BB%BC%E8%BF%B0/</loc>
+      <lastmod>2018-12-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/%E6%9D%BE%E8%80%A6%E5%90%88%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E6%9E%B6%E6%9E%84%E8%BF%9C%E7%A8%8B%E6%95%B0%E6%8D%AE%E8%AE%BF%E9%97%AE%E5%8A%A0%E9%80%9F%E6%9C%BA%E5%88%B6%E7%A0%94%E7%A9%B6/</loc>
+      <lastmod>2018-12-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/stateful-forward-edge-cfi-enforcement-with-intel-mpx/</loc>
+      <lastmod>2018-09-08T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/security-first-architecture-deploying-physically-isolated-active-security-processors-for-safeguarding-the-future-of-computing/</loc>
+      <lastmod>2018-06-05T15:21:35+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/raguard-a-hardware-based-mechanism-for-backward-edge-control-flow-integrity/</loc>
+      <lastmod>2017-05-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/</loc>
+      <lastmod>2017-01-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/venice-exploring-server-architectures-for-effective-resource-sharing/</loc>
+      <lastmod>2016-12-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/using-remote-memory-in-data-center-with-pcie-fabric/</loc>
+      <lastmod>2013-12-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/tcnet-cross-node-virtual-machine-communication-acceleration/</loc>
+      <lastmod>2013-05-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/micro-architectural-characterization-of-desktop-cloud-workloads/</loc>
+      <lastmod>2012-12-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/application-driven-energy-efficient-architecture-explorations-for-big-data/</loc>
+      <lastmod>2011-12-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/efficient-data-streaming-with-on-chip-accelerators-opportunities-and-challenges/</loc>
+      <lastmod>2011-12-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/optimization-of-stateful-hardware-acceleration-in-hybrid-architectures/</loc>
+      <lastmod>2011-05-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/frequent-instruction-sequential-pattern-mining-in-hardware-sample-data/</loc>
+      <lastmod>2010-12-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/compiler-and-runtime-techniques-for-software-transactional-memory-optimization/</loc>
+      <lastmod>2009-01-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/hardware-transactional-memory-system-for-parallel-programming/</loc>
+      <lastmod>2008-12-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/accelerating-sequential-programs-on-chip-multiprocessors-via-dynamic-prefetching-thread/</loc>
+      <lastmod>2007-12-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/a-hybrid-hardwaresoftware-generated-prefetching-thread-mechanism-on-chip-multiprocessors/</loc>
+      <lastmod>2006-12-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/high-performance-general-purpose-microprocessors-past-and-future/</loc>
+      <lastmod>2006-09-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/a-memory-bandwidth-effective-cache-store-miss-policy/</loc>
+      <lastmod>2005-12-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/1/</loc>
+      <lastmod>2022-02-12T09:46:43+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/2/</loc>
+      <lastmod>2020-03-03T16:43:14+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/</loc>
+      <lastmod>2022-02-12T09:46:43+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2022-02-12T09:46:43+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+</urlset>

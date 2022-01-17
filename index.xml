@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WELCOME on WELCOME</title>
+    <link>/</link>
+    <description>Recent content in WELCOME on WELCOME</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 12 Feb 2022 09:46:43 +0800</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>HyBP Hybrid Isolation Randomization Secure Branch Predictor</title>
+      <link>/publication/hybp-hybrid-isolation-randomization-secure-branch-predictor/</link>
+      <pubDate>Sat, 12 Feb 2022 09:46:43 +0800</pubDate>
+      
+      <guid>/publication/hybp-hybrid-isolation-randomization-secure-branch-predictor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NASGuard a Novel Accelerator Architecture for Robust NAS Networks</title>
+      <link>/publication/nasguard-a-novel-accelerator-architecture-for-robust-nas-networks/</link>
+      <pubDate>Sat, 06 Mar 2021 12:06:19 +0800</pubDate>
+      
+      <guid>/publication/nasguard-a-novel-accelerator-architecture-for-robust-nas-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Lightweight Isolation Mechanism for Secure Branch Predictors</title>
+      <link>/publication/a-lightweight-isolation-mechanism-for-secure-branch-predictors/</link>
+      <pubDate>Wed, 03 Mar 2021 16:43:14 +0800</pubDate>
+      
+      <guid>/publication/a-lightweight-isolation-mechanism-for-secure-branch-predictors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Built-in Security Computer: Deploying Security-First Architecture Using Active Security Processor</title>
+      <link>/publication/built-in-security-computer-deploying-security-first-architecture-using-active-security-processor/</link>
+      <pubDate>Tue, 03 Mar 2020 16:43:14 +0800</pubDate>
+      
+      <guid>/publication/built-in-security-computer-deploying-security-first-architecture-using-active-security-processor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Security Dependence for Conditional Speculation against Spectre Attacks</title>
+      <link>/publication/exploiting-security-dependence-for-conditional-speculation-against-spectre-attacks/</link>
+      <pubDate>Wed, 20 May 2020 15:47:34 +0800</pubDate>
+      
+      <guid>/publication/exploiting-security-dependence-for-conditional-speculation-against-spectre-attacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling Rack-scale Confidential Computing using Heterogeneous Trusted Execution Environment</title>
+      <link>/publication/enabling-rack-scale-confidential-computing-using-heterogeneous-trusted-execution-environment/</link>
+      <pubDate>Mon, 18 May 2020 22:10:16 +0800</pubDate>
+      
+      <guid>/publication/enabling-rack-scale-confidential-computing-using-heterogeneous-trusted-execution-environment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNNGuard: An Elastic Heterogeneous DNN Accelerator Architecture against Adversarial Attacks</title>
+      <link>/publication/dnnguard-an-elastic-heterogeneous-architecture-for-dnn-accelerator-against-adversarial-attacks/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dnnguard-an-elastic-heterogeneous-architecture-for-dnn-accelerator-against-adversarial-attacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Venice: An Effective Resource Sharing Architecture for Data Center Servers</title>
+      <link>/publication/venice-an-effective-resource-sharing-architecture-for-data-center-server/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/venice-an-effective-resource-sharing-architecture-for-data-center-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conditional Speculation: An Effective Approach to Safeguard Out-of-Order Execution Against Spectre Attacks</title>
+      <link>/publication/conditional-speculation-an-effective-approach-to-safeguard-out-of-order-execution-against-spectre-attacks/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/conditional-speculation-an-effective-approach-to-safeguard-out-of-order-execution-against-spectre-attacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RAGuard: An efficient and user-transparent hardware mechanism against ROP attacks</title>
+      <link>/publication/raguard-an-efficient-and-user-transparent-hardware-mechanism-against-rop-attacks/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/raguard-an-efficient-and-user-transparent-hardware-mechanism-against-rop-attacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cost Effective Data Center Servers</title>
+      <link>/publication/cost-effective-data-center-server/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/cost-effective-data-center-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Punchcard: A Practical Red-Zone Based Scheme for Low-Overhead Heap Protection </title>
+      <link>/publication/punchard-a-practical-red-zone-based-scheme-for-low-overhead-heap-protection/</link>
+      <pubDate>Mon, 20 Dec 2021 23:38:56 +0800</pubDate>
+      
+      <guid>/publication/punchard-a-practical-red-zone-based-scheme-for-low-overhead-heap-protection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Probabilistic Saturating Counter Design for Secure Branch Predictor</title>
+      <link>/publication/a-novel-probabilistic-saturating-counter-design-for-secure-branch-predictor/</link>
+      <pubDate>Fri, 10 Dec 2021 17:51:37 +0800</pubDate>
+      
+      <guid>/publication/a-novel-probabilistic-saturating-counter-design-for-secure-branch-predictor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secure Hybrid Replacement Policy Mitigating Conflict Based Cache Side Channel Attacks</title>
+      <link>/publication/secure-hybrid-replacement-policy-mitigating-conflict-based-cache-side-channel-attacks/</link>
+      <pubDate>Sat, 07 Aug 2021 08:49:40 +0800</pubDate>
+      
+      <guid>/publication/secure-hybrid-replacement-policy-mitigating-conflict-based-cache-side-channel-attacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PiPoMonitor: Mitigating Cross-Core Cache Attacks Using the Auto-Cuckoo Filter</title>
+      <link>/publication/pipomonitor-mitigating-cross-core-cache-attacks-using-the-auto-cuckoo-filter/</link>
+      <pubDate>Wed, 03 Feb 2021 16:43:14 +0800</pubDate>
+      
+      <guid>/publication/pipomonitor-mitigating-cross-core-cache-attacks-using-the-auto-cuckoo-filter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
