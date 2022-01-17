@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on WELCOME</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on WELCOME</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HyBP Hybrid Isolation Randomization Secure Branch Predictor</title>
+      <link>/publication/hybp-hybrid-isolation-randomization-secure-branch-predictor/</link>
+      <pubDate>Sat, 12 Feb 2022 09:46:43 +0800</pubDate>
+      
+      <guid>/publication/hybp-hybrid-isolation-randomization-secure-branch-predictor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Lightweight Isolation Mechanism for Secure Branch Predictors</title>
+      <link>/publication/a-lightweight-isolation-mechanism-for-secure-branch-predictors/</link>
+      <pubDate>Wed, 03 Mar 2021 16:43:14 +0800</pubDate>
+      
+      <guid>/publication/a-lightweight-isolation-mechanism-for-secure-branch-predictors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Security Dependence for Conditional Speculation against Spectre Attacks</title>
+      <link>/publication/exploiting-security-dependence-for-conditional-speculation-against-spectre-attacks/</link>
+      <pubDate>Wed, 20 May 2020 15:47:34 +0800</pubDate>
+      
+      <guid>/publication/exploiting-security-dependence-for-conditional-speculation-against-spectre-attacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conditional Speculation: An Effective Approach to Safeguard Out-of-Order Execution Against Spectre Attacks</title>
+      <link>/publication/conditional-speculation-an-effective-approach-to-safeguard-out-of-order-execution-against-spectre-attacks/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/conditional-speculation-an-effective-approach-to-safeguard-out-of-order-execution-against-spectre-attacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Probabilistic Saturating Counter Design for Secure Branch Predictor</title>
+      <link>/publication/a-novel-probabilistic-saturating-counter-design-for-secure-branch-predictor/</link>
+      <pubDate>Fri, 10 Dec 2021 17:51:37 +0800</pubDate>
+      
+      <guid>/publication/a-novel-probabilistic-saturating-counter-design-for-secure-branch-predictor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secure Hybrid Replacement Policy Mitigating Conflict Based Cache Side Channel Attacks</title>
+      <link>/publication/secure-hybrid-replacement-policy-mitigating-conflict-based-cache-side-channel-attacks/</link>
+      <pubDate>Sat, 07 Aug 2021 08:49:40 +0800</pubDate>
+      
+      <guid>/publication/secure-hybrid-replacement-policy-mitigating-conflict-based-cache-side-channel-attacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mitigating Cross-Core Cache Attacks via Suspicious Traffic Detection</title>
+      <link>/publication/mitigating-cross-core-cache-attacks-via-suspicious-traffic-detection/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/mitigating-cross-core-cache-attacks-via-suspicious-traffic-detection/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
