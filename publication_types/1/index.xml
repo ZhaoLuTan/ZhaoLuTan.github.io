@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on WELCOME</title>
+    <link>/publication_types/1/</link>
+    <description>Recent content in 1 on WELCOME</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 12 Feb 2022 09:46:43 +0800</lastBuildDate>
+    
+	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HyBP Hybrid Isolation Randomization Secure Branch Predictor</title>
+      <link>/publication/hybp-hybrid-isolation-randomization-secure-branch-predictor/</link>
+      <pubDate>Sat, 12 Feb 2022 09:46:43 +0800</pubDate>
+      
+      <guid>/publication/hybp-hybrid-isolation-randomization-secure-branch-predictor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NASGuard a Novel Accelerator Architecture for Robust NAS Networks</title>
+      <link>/publication/nasguard-a-novel-accelerator-architecture-for-robust-nas-networks/</link>
+      <pubDate>Sat, 06 Mar 2021 12:06:19 +0800</pubDate>
+      
+      <guid>/publication/nasguard-a-novel-accelerator-architecture-for-robust-nas-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Lightweight Isolation Mechanism for Secure Branch Predictors</title>
+      <link>/publication/a-lightweight-isolation-mechanism-for-secure-branch-predictors/</link>
+      <pubDate>Wed, 03 Mar 2021 16:43:14 +0800</pubDate>
+      
+      <guid>/publication/a-lightweight-isolation-mechanism-for-secure-branch-predictors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling Rack-scale Confidential Computing using Heterogeneous Trusted Execution Environment</title>
+      <link>/publication/enabling-rack-scale-confidential-computing-using-heterogeneous-trusted-execution-environment/</link>
+      <pubDate>Mon, 18 May 2020 22:10:16 +0800</pubDate>
+      
+      <guid>/publication/enabling-rack-scale-confidential-computing-using-heterogeneous-trusted-execution-environment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNNGuard: An Elastic Heterogeneous DNN Accelerator Architecture against Adversarial Attacks</title>
+      <link>/publication/dnnguard-an-elastic-heterogeneous-architecture-for-dnn-accelerator-against-adversarial-attacks/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dnnguard-an-elastic-heterogeneous-architecture-for-dnn-accelerator-against-adversarial-attacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conditional Speculation: An Effective Approach to Safeguard Out-of-Order Execution Against Spectre Attacks</title>
+      <link>/publication/conditional-speculation-an-effective-approach-to-safeguard-out-of-order-execution-against-spectre-attacks/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/conditional-speculation-an-effective-approach-to-safeguard-out-of-order-execution-against-spectre-attacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cost Effective Data Center Servers</title>
+      <link>/publication/cost-effective-data-center-server/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/cost-effective-data-center-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Punchcard: A Practical Red-Zone Based Scheme for Low-Overhead Heap Protection </title>
+      <link>/publication/punchard-a-practical-red-zone-based-scheme-for-low-overhead-heap-protection/</link>
+      <pubDate>Mon, 20 Dec 2021 23:38:56 +0800</pubDate>
+      
+      <guid>/publication/punchard-a-practical-red-zone-based-scheme-for-low-overhead-heap-protection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PiPoMonitor: Mitigating Cross-Core Cache Attacks Using the Auto-Cuckoo Filter</title>
+      <link>/publication/pipomonitor-mitigating-cross-core-cache-attacks-using-the-auto-cuckoo-filter/</link>
+      <pubDate>Wed, 03 Feb 2021 16:43:14 +0800</pubDate>
+      
+      <guid>/publication/pipomonitor-mitigating-cross-core-cache-attacks-using-the-auto-cuckoo-filter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RCecker: A Lightweight Rule Based Mechanism for Backward Control Flow Integrity</title>
+      <link>/publication/a-lightweight-rule-based-mechanism-for-backward-control-flow-integrity/</link>
+      <pubDate>Fri, 03 Apr 2020 12:24:23 +0800</pubDate>
+      
+      <guid>/publication/a-lightweight-rule-based-mechanism-for-backward-control-flow-integrity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capturing and Obscuring Ping-Pong Patterns to Mitigate Continuous Attacks</title>
+      <link>/publication/capturing-and-obscuring-ping-pong-patterns-to-mitigate-continuous-attacks/</link>
+      <pubDate>Mon, 09 Mar 2020 16:59:50 +0800</pubDate>
+      
+      <guid>/publication/capturing-and-obscuring-ping-pong-patterns-to-mitigate-continuous-attacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SNA: A Siamese Network Accelerator to Exploit the Model-Level Parallelism of Hybrid Network Structure</title>
+      <link>/publication/sna-a-siamese-network-accelerator-to-exploit-the-model-level-parallelism-of-hybrid-network-structures/</link>
+      <pubDate>Mon, 09 Mar 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/sna-a-siamese-network-accelerator-to-exploit-the-model-level-parallelism-of-hybrid-network-structures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NPUFort: A Secure Architecture of DNN Accelerator Against Model Inversion Attack</title>
+      <link>/publication/npufort-a-secure-architecture-of-dnn-accelerator-against-model-inversion-attack/</link>
+      <pubDate>Mon, 11 Mar 2019 09:07:23 +0800</pubDate>
+      
+      <guid>/publication/npufort-a-secure-architecture-of-dnn-accelerator-against-model-inversion-attack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CacheGuard: A Security-Enhanced Directory Architecture Against Continuous Attacks</title>
+      <link>/publication/cacheguard-a-security-enhanced-directory-architecture-against-continuous-attacks/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/cacheguard-a-security-enhanced-directory-architecture-against-continuous-attacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>松耦合数据中心架构远程数据访问加速机制研究</title>
+      <link>/publication/%E6%9D%BE%E8%80%A6%E5%90%88%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E6%9E%B6%E6%9E%84%E8%BF%9C%E7%A8%8B%E6%95%B0%E6%8D%AE%E8%AE%BF%E9%97%AE%E5%8A%A0%E9%80%9F%E6%9C%BA%E5%88%B6%E7%A0%94%E7%A9%B6/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/%E6%9D%BE%E8%80%A6%E5%90%88%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E6%9E%B6%E6%9E%84%E8%BF%9C%E7%A8%8B%E6%95%B0%E6%8D%AE%E8%AE%BF%E9%97%AE%E5%8A%A0%E9%80%9F%E6%9C%BA%E5%88%B6%E7%A0%94%E7%A9%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stateful Forward-Edge CFI Enforcement with Intel MPX</title>
+      <link>/publication/stateful-forward-edge-cfi-enforcement-with-intel-mpx/</link>
+      <pubDate>Sat, 08 Sep 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/stateful-forward-edge-cfi-enforcement-with-intel-mpx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RAGuard: A Hardware Based Mechanism for Backward-Edge Control-Flow Integrity</title>
+      <link>/publication/raguard-a-hardware-based-mechanism-for-backward-edge-control-flow-integrity/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/raguard-a-hardware-based-mechanism-for-backward-edge-control-flow-integrity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Venice: Exploring Server Architectures for Effective Resource Sharing</title>
+      <link>/publication/venice-exploring-server-architectures-for-effective-resource-sharing/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/venice-exploring-server-architectures-for-effective-resource-sharing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Remote Memory in Data Center with PCIe Fabric</title>
+      <link>/publication/using-remote-memory-in-data-center-with-pcie-fabric/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/using-remote-memory-in-data-center-with-pcie-fabric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-node Virtual Machine Communication Acceleration</title>
+      <link>/publication/tcnet-cross-node-virtual-machine-communication-acceleration/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/tcnet-cross-node-virtual-machine-communication-acceleration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Micro-architectural Characterization of Desktop Cloud Workloads</title>
+      <link>/publication/micro-architectural-characterization-of-desktop-cloud-workloads/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/micro-architectural-characterization-of-desktop-cloud-workloads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application-driven Energy-efficient Architecture Explorations for Big Data</title>
+      <link>/publication/application-driven-energy-efficient-architecture-explorations-for-big-data/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/application-driven-energy-efficient-architecture-explorations-for-big-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient data streaming with on-chip accelerators: Opportunities and challenges</title>
+      <link>/publication/efficient-data-streaming-with-on-chip-accelerators-opportunities-and-challenges/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/efficient-data-streaming-with-on-chip-accelerators-opportunities-and-challenges/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization of Stateful Hardware Acceleration in Hybrid Architectures</title>
+      <link>/publication/optimization-of-stateful-hardware-acceleration-in-hybrid-architectures/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/optimization-of-stateful-hardware-acceleration-in-hybrid-architectures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frequent Instruction Sequential Pattern Mining in Hardware Sample Data</title>
+      <link>/publication/frequent-instruction-sequential-pattern-mining-in-hardware-sample-data/</link>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/frequent-instruction-sequential-pattern-mining-in-hardware-sample-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compiler and Runtime Techniques for Software Transactional Memory Optimization</title>
+      <link>/publication/compiler-and-runtime-techniques-for-software-transactional-memory-optimization/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/compiler-and-runtime-techniques-for-software-transactional-memory-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware Transactional Memory System for Parallel Programming</title>
+      <link>/publication/hardware-transactional-memory-system-for-parallel-programming/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/hardware-transactional-memory-system-for-parallel-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerating Sequential Programs On Chip Multiprocessors Via Dynamic Prefetching Thread</title>
+      <link>/publication/accelerating-sequential-programs-on-chip-multiprocessors-via-dynamic-prefetching-thread/</link>
+      <pubDate>Sat, 01 Dec 2007 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/accelerating-sequential-programs-on-chip-multiprocessors-via-dynamic-prefetching-thread/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Hybrid Hardware/Software Generated Prefetching Thread Mechanism on Chip Multiprocessors</title>
+      <link>/publication/a-hybrid-hardwaresoftware-generated-prefetching-thread-mechanism-on-chip-multiprocessors/</link>
+      <pubDate>Fri, 01 Dec 2006 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/a-hybrid-hardwaresoftware-generated-prefetching-thread-mechanism-on-chip-multiprocessors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Memory Bandwidth Effective Cache Store Miss Policy</title>
+      <link>/publication/a-memory-bandwidth-effective-cache-store-miss-policy/</link>
+      <pubDate>Thu, 01 Dec 2005 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/a-memory-bandwidth-effective-cache-store-miss-policy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
