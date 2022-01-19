@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2021</copyright>
-    <lastBuildDate>Wed, 20 May 2020 15:47:34 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 10 Dec 2021 17:51:37 +0800</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Exploiting Security Dependence for Conditional Speculation against Spectre Attacks</title>
-      <link>/publication/exploiting-security-dependence-for-conditional-speculation-against-spectre-attacks/</link>
-      <pubDate>Wed, 20 May 2020 15:47:34 +0800</pubDate>
-      
-      <guid>/publication/exploiting-security-dependence-for-conditional-speculation-against-spectre-attacks/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>A Novel Probabilistic Saturating Counter Design for Secure Branch Predictor</title>
@@ -31,20 +22,29 @@
     </item>
     
     <item>
-      <title>Secure Hybrid Replacement Policy Mitigating Conflict Based Cache Side Channel Attacks</title>
-      <link>/publication/secure-hybrid-replacement-policy-mitigating-conflict-based-cache-side-channel-attacks/</link>
-      <pubDate>Sat, 07 Aug 2021 08:49:40 +0800</pubDate>
-      
-      <guid>/publication/secure-hybrid-replacement-policy-mitigating-conflict-based-cache-side-channel-attacks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Mitigating Cross-Core Cache Attacks via Suspicious Traffic Detection</title>
       <link>/publication/mitigating-cross-core-cache-attacks-via-suspicious-traffic-detection/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
       
       <guid>/publication/mitigating-cross-core-cache-attacks-via-suspicious-traffic-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Security Dependence for Conditional Speculation against Spectre Attacks</title>
+      <link>/publication/exploiting-security-dependence-for-conditional-speculation-against-spectre-attacks/</link>
+      <pubDate>Wed, 20 May 2020 15:47:34 +0800</pubDate>
+      
+      <guid>/publication/exploiting-security-dependence-for-conditional-speculation-against-spectre-attacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secure Hybrid Replacement Policy Mitigating Conflict Based Cache Side Channel Attacks</title>
+      <link>/publication/secure-hybrid-replacement-policy-mitigating-conflict-based-cache-side-channel-attacks/</link>
+      <pubDate>Sat, 07 Aug 2021 08:49:40 +0800</pubDate>
+      
+      <guid>/publication/secure-hybrid-replacement-policy-mitigating-conflict-based-cache-side-channel-attacks/</guid>
       <description></description>
     </item>
     

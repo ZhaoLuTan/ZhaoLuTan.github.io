@@ -31,6 +31,15 @@
     </item>
     
     <item>
+      <title>PiPoMonitor: Mitigating Cross-Core Cache Attacks Using the Auto-Cuckoo Filter</title>
+      <link>/publication/pipomonitor-mitigating-cross-core-cache-attacks-using-the-auto-cuckoo-filter/</link>
+      <pubDate>Wed, 03 Feb 2021 16:43:14 +0800</pubDate>
+      
+      <guid>/publication/pipomonitor-mitigating-cross-core-cache-attacks-using-the-auto-cuckoo-filter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Conditional Speculation: An Effective Approach to Safeguard Out-of-Order Execution Against Spectre Attacks</title>
       <link>/publication/conditional-speculation-an-effective-approach-to-safeguard-out-of-order-execution-against-spectre-attacks/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>

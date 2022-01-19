@@ -29,6 +29,33 @@
     </item>
     
     <item>
+      <title>A Novel Probabilistic Saturating Counter Design for Secure Branch Predictor</title>
+      <link>/publication/a-novel-probabilistic-saturating-counter-design-for-secure-branch-predictor/</link>
+      <pubDate>Fri, 10 Dec 2021 17:51:37 +0800</pubDate>
+      
+      <guid>/publication/a-novel-probabilistic-saturating-counter-design-for-secure-branch-predictor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PiPoMonitor: Mitigating Cross-Core Cache Attacks Using the Auto-Cuckoo Filter</title>
+      <link>/publication/pipomonitor-mitigating-cross-core-cache-attacks-using-the-auto-cuckoo-filter/</link>
+      <pubDate>Wed, 03 Feb 2021 16:43:14 +0800</pubDate>
+      
+      <guid>/publication/pipomonitor-mitigating-cross-core-cache-attacks-using-the-auto-cuckoo-filter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mitigating Cross-Core Cache Attacks via Suspicious Traffic Detection</title>
+      <link>/publication/mitigating-cross-core-cache-attacks-via-suspicious-traffic-detection/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/mitigating-cross-core-cache-attacks-via-suspicious-traffic-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Exploiting Security Dependence for Conditional Speculation against Spectre Attacks</title>
       <link>/publication/exploiting-security-dependence-for-conditional-speculation-against-spectre-attacks/</link>
       <pubDate>Wed, 20 May 2020 15:47:34 +0800</pubDate>
@@ -47,29 +74,11 @@
     </item>
     
     <item>
-      <title>A Novel Probabilistic Saturating Counter Design for Secure Branch Predictor</title>
-      <link>/publication/a-novel-probabilistic-saturating-counter-design-for-secure-branch-predictor/</link>
-      <pubDate>Fri, 10 Dec 2021 17:51:37 +0800</pubDate>
-      
-      <guid>/publication/a-novel-probabilistic-saturating-counter-design-for-secure-branch-predictor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Secure Hybrid Replacement Policy Mitigating Conflict Based Cache Side Channel Attacks</title>
       <link>/publication/secure-hybrid-replacement-policy-mitigating-conflict-based-cache-side-channel-attacks/</link>
       <pubDate>Sat, 07 Aug 2021 08:49:40 +0800</pubDate>
       
       <guid>/publication/secure-hybrid-replacement-policy-mitigating-conflict-based-cache-side-channel-attacks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mitigating Cross-Core Cache Attacks via Suspicious Traffic Detection</title>
-      <link>/publication/mitigating-cross-core-cache-attacks-via-suspicious-traffic-detection/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
-      
-      <guid>/publication/mitigating-cross-core-cache-attacks-via-suspicious-traffic-detection/</guid>
       <description></description>
     </item>
     
