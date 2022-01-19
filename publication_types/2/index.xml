@@ -22,20 +22,20 @@
     </item>
     
     <item>
-      <title>Mitigating Cross-Core Cache Attacks via Suspicious Traffic Detection</title>
-      <link>/publication/mitigating-cross-core-cache-attacks-via-suspicious-traffic-detection/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
-      
-      <guid>/publication/mitigating-cross-core-cache-attacks-via-suspicious-traffic-detection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Exploiting Security Dependence for Conditional Speculation against Spectre Attacks</title>
       <link>/publication/exploiting-security-dependence-for-conditional-speculation-against-spectre-attacks/</link>
       <pubDate>Wed, 20 May 2020 15:47:34 +0800</pubDate>
       
       <guid>/publication/exploiting-security-dependence-for-conditional-speculation-against-spectre-attacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mitigating Cross-Core Cache Attacks via Suspicious Traffic Detection</title>
+      <link>/publication/mitigating-cross-core-cache-attacks-via-suspicious-traffic-detection/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/mitigating-cross-core-cache-attacks-via-suspicious-traffic-detection/</guid>
       <description></description>
     </item>
     
